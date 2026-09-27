@@ -382,7 +382,7 @@ El primer ciclo de TDD arranca en `Kalma.Domain.Tests`, sin base de datos, sin l
 - [x] Un parte se crea con tramo, los 6 campos obligatorios y una nota opcional; si falta alguno de los 6, se rechaza.
 - [x] No se puede crear un parte para un tramo que no existe (solo hay 4).
 - [x] El parte guarda la hora del tramo como valor propio.
-- [ ] Un parte no se puede modificar después de crearse.
+- [x] Un parte no se puede modificar después de crearse.
 - [x] Una corrección es un parte nuevo que referencia al original.
 
 **Aplicación**
